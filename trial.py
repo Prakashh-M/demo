@@ -1,6 +1,6 @@
 
 a= int(input())
-s=1
+s=10
 
 while (a>0):
     d= a%10
